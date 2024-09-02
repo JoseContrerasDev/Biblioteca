@@ -1,0 +1,40 @@
+9. Algunos mitos sobre el relevamiento 
+
+_En esta etapa se busca detectar los problemas y las necesidades de una organización o un área determinada.  
+
+ existen otras etapas donde los responsables, marco general del trabajo.,alcance del nuevo sistema,  presupuestos en tiempo y dinero
+
+
+_El relevamiento debe centrarse en los usuarios claves que, habitualmente, son los jefes o los que más conocen la operatoria actual de la empresa.
+
+En alguna ocasión pueda que además debamos apoyarnos en algún operario calificado o en personal con mucha antigüedad. 
+
+_Las entrevistas deben seguir los procedimientos formales que tenga la organización.
+
+Muchas veces la utilización de métodos más informales, “descontracturados” o lúdicos permiten una mejor predisposición del usuario y, consecuentemente, una mejor calidad de la información recibida. Además, permiten que el usuario se exprese libremente y surjan temas no previstos originalmente.  Hay que tener en cuenta que la participación de la alta dirección en los relevamientos es importante porque en cierto modo marcan la importancia que tiene el proyecto para la organización. Sin embargo, no todos los empleados se sienten cómodos hablando frente a sus superiores. Es bueno encontrar momentos y espacios seguros donde puedan expresarse libremente sobre aquellas cosas que creen que están bien y aquellas que creen que deberían ser modificadas con el nuevo desarrollo. 
+
+_Cuanto más profundo es el relevamiento, mejor se entiende el problema y menos cambios futuros aparecen.
+
+Cantidad no es sinónimo de calidad. Entrevistar a más cantidad de usuarios no nos asegurará mejor comprensión del problema. 
+
+_Los programadores no deben participar del relevamiento. 
+
+la participación del programador en alguna parte del relevamiento puede ser muy beneficiosa para que este comprenda mejor el problema.  Además, desde su experiencia técnica, puede tener dudas específicas o incluso aportar y proponer soluciones innovadoras, que quizá no pueden ser visualizadas ni por el analista ni por el usuario.
+
+
+10. Un enfoque alternativo
+complementando las tareas tradicionales, ayuda a mitigar muchos de los problemas enunciados previamente. Este enfoque se basa en 3 conceptos clave: 
+
+a_ CUIDADO! HAY PERSONAS
+1_ adaptacion al cliente
+
+b_
+
+
+c_
+
+
+
+
+ 
+
